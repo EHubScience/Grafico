@@ -11,6 +11,6 @@ ggplot(rankImportance,
             hjust=0,
             vjust=0.55,
             size=4,
-            colour='red')+
+            colour='yellow')+
   labs(x='Variables')+
   coord_flip()
